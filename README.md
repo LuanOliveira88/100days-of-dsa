@@ -18,5 +18,12 @@
     <li>Data Structures and Algorithms with Python: Kent D. Lee, Steve Hubbard (Book)</li>
     <li>Python Data Structures and Algorithms: Benjamim Baka(Book)</li>
 </ul>
-<h2>Day 0: January, 15, 2024</h2>
-<p></p>
+<h2>Day 1: January, 15, 2024</h2>
+<p>
+    <strong>Today's Progress:</strong>I solved the classic problem Two Sums. 
+</p>
+<p>
+    <strong>Thoughts</strong>: I adopted brute strength for now. As I go advancing 
+    in studies on algorithm implementations, I think about some problems to try more 
+    optimized solutions.
+</p>
