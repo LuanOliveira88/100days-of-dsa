@@ -1,6 +1,8 @@
 <h1> 100 Days of DataStructures and Algorithms</h1>
 <h2>Overview</h2>
 <p>Welcome! Here is my progress during the #100DaysOfCode challenge. Python will be the language adopted throughout the challenge, a priori. Changes will be recorded and updated.</p>
+<p>Official Challenge Website <a href="https://www.100daysofcode.com/">click here</a></p>
+
 <h2>Two Main Rules</h2>
 <ol>
     <li>Code minimum an hour every day for the next 100 days.</li>
@@ -47,7 +49,7 @@
     <strong>Today's Progress:</strong>I solved the classic problem Two Sums. 
 </p>
 <p>
-    <strong>Thoughts</strong>: I adopted brute strength for now. As I go advancing 
+    <strong>Thoughts</strong>: I adopted brute force for now. As I go advancing 
     in studies on algorithm implementations, I think about some problems to try more 
     optimized solutions.
 </p>
