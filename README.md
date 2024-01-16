@@ -1,55 +1,56 @@
-<h1> 100 Days of DataStructures and Algorithms</h1>
-<h2>Overview</h2>
-<p>Welcome! Here is my progress during the #100DaysOfCode challenge. Python will be the language adopted throughout the challenge, a priori. Changes will be recorded and updated.</p>
-<p>Official Challenge Website <a href="https://www.100daysofcode.com/">click here</a></p>
 
-<h2>Two Main Rules</h2>
-<ol>
-    <li>Code minimum an hour every day for the next 100 days.</li>
-    <li>Tweet your progress every day with the #100DaysOfCode hashtag</li>
-</ol>
-<p><a href="https://www.100daysofcode.com/rules/">Learn more about the rules</a></p>
-<h2>Learning Resources</h2>
-<ul>
-    <li><a href='https://leetcode.com/'>LeetCode</a></li>
-    <li><a href='https://www.geeksforgeeks.org/tag/python-dsa-exercises/'>GeeksForGeeks</a></li>
-    <li><a href='https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/'>freeCodeCamp</a></li>
-    <li><a href='https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/'>freeCodeCamp</a></li>
-    <li><a href='https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY'> The Roadmap (YouTube Playlist)</a></li>
-    <li>Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (Book)</li>
-    <li>Data Structures and Algorithms with Python: Kent D. Lee, Steve Hubbard (Book)</li>
-    <li>Python Data Structures and Algorithms: Benjamim Baka(Book)</li>
-</ul>
+# 100 Days of DataStructures and Algorithms
 
+## Overview
+Welcome! Here is my progress during the #100DaysOfCode challenge. Python will be the language adopted throughout the challenge, a priori. Changes will be recorded and updated.
 
-<h2>Data Structures Basics</h2>
+Official Challenge Website [click here](https://www.100daysofcode.com/)
 
-<h3>Arrays</h3>
+## Two Main Rules
 
-<h4>Overview</h4>
-<p>An array is a data structure that stores elements of the same type in contiguous memory locations. It is characterized by its fixed size and random access to elements using indices.
-</p>
+1. Code minimum an hour every day for the next 100 days.
+2. Tweet your progress every day with the #100DaysOfCode hashtag
 
-<h4>Key Points</h4>
-<p><strong>Indexing:</strong> Elements in an array are accessed using zero-based indices. For example, in a language like Python or JavaScript, myArray[0] refers to the first element.</p>
+[Learn more about the rules](https://www.100daysofcode.com/rules/)
 
-<p><strong>Fixed Size:</strong> Arrays have a predetermined size that is defined at the time of creation. Adding or removing elements beyond this size may require creating a new array.</p>
+## Learning Resources
 
-<p>Common Operations:</p>
+- [LeetCode](https://leetcode.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/tag/python-dsa-exercises/)
+- [freeCodeCamp](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
+- [The Roadmap](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY) (YouTube Playlist)
+- Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (Book)
+- Data Structures and Algorithms with Python: Kent D. Lee, Steve Hubbard (Book)
+- Python Data Structures and Algorithms: Benjamim Baka(Book)
 
-<ul>
-    <li>Access: O(1) - constant time.</li>
-    <li>Search: O(n) - linear time, as it may require checking each element.</li>
-    <li>Insertion/Deletion: O(n) - linear time, as it may involve shifting elements.</li>
-</ul>
+## Data Structures Basics
 
+### Arrays
 
-<h2>Day 1: January, 15, 2024</h2>
-<p>
-    <strong>Today's Progress:</strong>I solved the classic problem Two Sums. 
-</p>
-<p>
-    <strong>Thoughts</strong>: I adopted brute force for now. As I go advancing 
-    in studies on algorithm implementations, I think about some problems to try more 
-    optimized solutions.
-</p>
+#### Overview
+
+An array is a data structure that stores elements of the same type in contiguous memory locations. It is characterized by its fixed size and random access to elements using indices.
+
+#### Key Points
+
+**Indexing:** Elements in an array are accessed using zero-based indices. For example, in a language like Python or JavaScript, ``myArray[0]`` refers to the first element.
+
+**Fixed Size:** Arrays have a predetermined size that is defined at the time of creation. Adding or removing elements beyond this size may require creating a new array.
+
+Common Operations:
+
+- Access: O(1) - constant time.
+- Search: O(n) - linear time, as it may require checking each element.
+- Insertion/Deletion: O(n) - linear time, as it may involve shifting elements.
+
+## Day 1: January, 15, 2024
+
+**Today's Progress:**I solved the classic problem Two Sums. 
+
+**Thoughts:** I adopted brute force for now. As I go advancing in studies on algorithm implementations, I think about some problems to try more optimized solutions.
+
+## Day 2: January, 16, 2024
+
+**Today's Progress:**I solved a little removing duplicatas in a array. 
+
+**Thoughts:** I adopted in-place algorithm
