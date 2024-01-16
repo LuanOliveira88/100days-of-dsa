@@ -45,12 +45,12 @@ Common Operations:
 
 ## Day 1: January, 15, 2024
 
-**Today's Progress:**I solved the classic problem Two Sums. 
+**Today's Progress:** I solved the classic problem Two Sums. 
 
 **Thoughts:** I adopted brute force for now. As I go advancing in studies on algorithm implementations, I think about some problems to try more optimized solutions.
 
 ## Day 2: January, 16, 2024
 
-**Today's Progress:**I solved a little removing duplicatas in a array. 
+**Today's Progress:** I solved a little removing duplicatas in a array. 
 
 **Thoughts:** I adopted in-place algorithm
